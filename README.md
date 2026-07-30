@@ -1,5 +1,5 @@
 <h1 align="center">Berkeley I School Python Bootcamp 2026<br>👁️🏫🐍🥾🏕️2️⃣0️⃣2️⃣6️⃣</h1>
-<h3 align="center"><i>August 3 - 13, 2025<br>Monday - Thursday, <a href="https://www.worldtimebuddy.com/?qm=1&lid=5391959,306,305,14,312,184745,30,1816670,1850147&h=5391959&date=2025-7-28&sln=13-16&hf=1">1 - 4 pm PDT</a></i></h3>
+<h3 align="center"><i>August 3 - 13, 2026<br>Monday - Thursday, <a href="https://www.worldtimebuddy.com/?qm=1&lid=5391959,306,305,14,312,184745,30,1816670,1850147&h=5391959&date=2025-7-28&sln=13-16&hf=1">1 - 4 pm PDT</a></i></h3>
 
 Hello MIMS c/o 2028 and PhDs c/o ~2032! Welcome to the pre-semester Python bootcamp. This bootcamp is intended for students with little to no background in Python programming. Those with more experience are welcome to join, but should be aware that the design of the course is built for beginners. This boot camp is specifically intended to prepare students for [Info 206A](https://www.ischool.berkeley.edu/courses/info/206a) and [Info 206B](https://www.ischool.berkeley.edu/courses/info/206b).
 
